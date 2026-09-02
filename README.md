@@ -52,14 +52,6 @@ Built an MVP AI marketing assistant generating on-brand content from a "Brand DN
 
 ---
 
-## 🏆 Co-Curricular
-
-- College-level Ideathon participant
-- Tech Quiz & Math Quiz inter-department competitor
-- Poster Making — 1st Runner Up, college technical event
-
----
-
 ## 📫 Reach Me
 - [LinkedIn](https://www.linkedin.com/in/sheema-shariq-436678366)
 - [GeeksforGeeks](https://www.geeksforgeeks.org/profile/sheemash17x8)
