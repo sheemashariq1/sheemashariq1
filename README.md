@@ -4,7 +4,7 @@
 
 **BSc (Hons) Computer Science · Jamia Millia Islamia, New Delhi**
 
-Building AI-powered apps · Learning cloud deployment · Grinding DSA consistently
+Building AI-powered apps · Exploring ML & cloud deployment · Enhancing DSA & problem-solving skills
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sheema-shariq-436678366)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/SHEEMA_SHARIQ)
@@ -39,6 +39,15 @@ FastAPI (Python)  →  Gemini API (SSE streaming)  →  Vanilla JS frontend
 Building toward advanced Python through daily projects covering fundamentals, OOP, automation, and web development.
 
 `Python` `OOP` `Automation` `Web Dev`
+
+## 📊 LeetCode
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/SHEEMA_SHARIQ?theme=dark)](https://leetcode.com/u/SHEEMA_SHARIQ)
+
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-200%2B-2F8D46?style=flat-square)
+![100 Day Badge](https://img.shields.io/badge/100%20Day%20Badge-🔥-orange?style=flat-square)
+![50 Day Badge](https://img.shields.io/badge/50%20Day%20Badge-⚡-yellow?style=flat-square)
+
 ---
 
 ## 💼 Experience
@@ -74,7 +83,7 @@ Building toward advanced Python through daily projects covering fundamentals, OO
 |---|---|
 | [Exmentify](https://github.com/sheemashariq1/Exmentify) | AI exam prep platform — FastAPI + Gemini API + AWS |
 | [Python_Projects](https://github.com/sheemashariq1/Python_Projects) | Projects from the 100 Days of Code bootcamp |
-
+| [DSA_Practice](https://github.com/sheemashariq1/DSA_Practice) | Striver's A2Z + College DSA Sprint|
 ---
 
 ## 🎓 Education & Certifications
