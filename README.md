@@ -1,58 +1,96 @@
-### Hi, I'm Sheema 👋
+<div align="center">
 
-BSc (Hons) Computer Science student at Jamia Millia Islamia, New Delhi | Exploring AI-powered development, cloud deployment, and full-stack engineering
+# Sheema Shariq
+
+**BSc (Hons) Computer Science · Jamia Millia Islamia, New Delhi**
+
+Building AI-powered apps · Learning cloud deployment · Grinding DSA consistently
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sheema-shariq-436678366)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/SHEEMA_SHARIQ)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/sheemash17x8)
+![Location](https://img.shields.io/badge/New%20Delhi%2C%20IN-484F58?style=flat-square&logo=googlemaps&logoColor=white)
+![Open to Internships](https://img.shields.io/badge/Open%20to%20Internships-238636?style=flat-square)
+
+</div>
 
 ---
 
-## 🎓 Education
+## 🚀 Featured Project
 
-**Jamia Millia Islamia, New Delhi** — BSc (Hons) Computer Science *(2025 – Present, 2nd Year)*
-Strengthening core CS fundamentals — DSA, OOP, and problem-solving — through coursework, consistent LeetCode practice, and hands-on project building, with a growing focus on AI-powered application development and cloud deployment.
+### [Exmentify](https://github.com/sheemashariq1/Exmentify) — AI-Powered Exam Prep Platform
 
----
+> Personalized study content · Structured cheat sheets · 12+ exam tracks
 
-## 🚀 Projects
+Built with the **Gemini API** for real-time LLM responses via SSE streaming. Covers GATE CS, campus placements, banking, and SSC tracks. Features flashcards, mistake diagnosis, goal tracking, and client-side PDF export.
 
-**[Exmentify](https://github.com/sheemashariq1/Exmentify)** — AI-Powered Exam Preparation Platform
-Built using the Gemini API to generate personalized study content, structured cheat sheets, and topic explanations across 12+ exam tracks (GATE, campus placements, banking & SSC). FastAPI backend + JavaScript frontend with flashcards, mistake diagnosis, goal tracking, and PDF export. Currently being upgraded to support courses beyond GATE CS.
-`Python` `FastAPI` `JavaScript` `HTML/CSS` `Gemini API` `Docker` `AWS`
+```
+FastAPI (Python)  →  Gemini API (SSE streaming)  →  Vanilla JS frontend
+        ↓
+  Docker container  →  AWS Elastic Beanstalk  →  CloudFront (HTTPS)
+```
 
-**MarkIQ** — AI Marketing Content Platform *(Hackathon Project, Team of 4)*
-Built an MVP AI marketing assistant generating on-brand content from a "Brand DNA" profile and scoring outputs for brand-voice consistency in real time. Represented team **Merge Conflicts** (top 176 teams) at **HackFluence 2026**, a national-level AI & Creator Economy Innovation Hackathon by CodeBenders × Dropp — advanced to round two.
-`React` `Cloudflare Workers` `Claude API`
+`Python` `FastAPI` `Gemini API` `JavaScript` `HTML/CSS` `Docker` `AWS` `Mermaid.js`
 
+### [Python Projects](https://github.com/sheemashariq1/Python_Projects) — 100 Days of Code
+
+> Daily hands-on exercises · Udemy bootcamp · In Progress
+
+Building toward advanced Python through daily projects covering fundamentals, OOP, automation, and web development.
+
+`Python` `OOP` `Automation` `Web Dev`
 ---
 
 ## 💼 Experience
 
-**AI/ML Intern — IBM SkillsBuild x BharatCares (AICTE)** *(June – July 2026)*
-- Built and deployed Exmentify, a full-stack AI exam-prep web app, as final internship project
-- Developed backend with Python (FastAPI), using SSE streaming for real-time LLM responses via the Google Gemini API
-- Containerized with Docker and deployed on AWS Elastic Beanstalk with CloudFront for HTTPS
-- Built frontend in vanilla JS/HTML/CSS with client-side PDF export and Mermaid.js diagrams
+| Role | Organisation | Period |
+|---|---|---|
+| **AI/ML Intern** | IBM SkillsBuild × BharatCares × AICTE | Jun – Jul 2026 |
+| **Campus Representative** | GeeksforGeeks | Jun 2026 – Present |
 
-**Campus Representative — GeeksforGeeks** *(Since June 2026)*
-
----
-
-## 🎓 Certifications & Training
-
-- **IBM SkillsBuild Gen AI & Cloud Computing Internship** — BharatCares × AICTE × IBM SkillsBuild *(Certificate ID: BHIBMAC06445)*
-- **NoviTech R&D — 30 Days Masterclass**: Full Stack Development & Data Analytics
-- **Udemy — 100 Days of Code: The Complete Python Pro Bootcamp** *(In Progress)* → [Python_Projects](https://github.com/sheemashariq1/Python_Projects)
-- **GeeksforGeeks — 30-Day DSA Step-by-Step Learning Streak**
+**What I built at IBM SkillsBuild:**
+- Full-stack AI web app (Exmentify) from scratch to deployment as the final project
+- Real-time LLM responses using Server-Sent Events with Google Gemini API
+- Containerized with Docker → deployed on AWS Elastic Beanstalk + CloudFront
 
 ---
 
 ## 🛠️ Skills
 
-**Languages:** `Python` `C++` `C` `SQL` `HTML` `CSS`
-**Tools & Platforms:** `GitHub` `VS Code` `Docker` `AWS` `LeetCode`
-**Concepts:** Data Structures & Algorithms, OOP Fundamentals, Data Analytics, REST APIs, LLM Integration / Prompt Engineering
+**Languages**
+`Python` `C++` `C` `SQL` `HTML` `CSS`
+
+**Tools & Platforms**
+`Docker` `AWS` `FastAPI` `GitHub` `VS Code` `LeetCode`
+
+**Concepts**
+`Data Structures & Algorithms` `OOP` `REST APIs` `LLM Integration` `Prompt Engineering` `Data Analytics`
 
 ---
 
-## 📫 Reach Me
-- [LinkedIn](https://www.linkedin.com/in/sheema-shariq-436678366)
-- [GeeksforGeeks](https://www.geeksforgeeks.org/profile/sheemash17x8)
-- [LeetCode](https://leetcode.com/u/SHEEMA_SHARIQ)
+## 📂 Repositories
+
+| Repo | What's inside |
+|---|---|
+| [Exmentify](https://github.com/sheemashariq1/Exmentify) | AI exam prep platform — FastAPI + Gemini API + AWS |
+| [Python_Projects](https://github.com/sheemashariq1/Python_Projects) | Projects from the 100 Days of Code bootcamp |
+
+---
+
+## 🎓 Education & Certifications
+
+**Jamia Millia Islamia** — BSc (Hons) Computer Science *(2025 – Present, 2nd Year)*
+
+Certifications:
+- IBM SkillsBuild Gen AI & Cloud Computing Internship *(BHIBMAC06445)*
+- NoviTech R&D — Full Stack Development & Data Analytics (30 Days)
+- Udemy — 100 Days of Code: The Complete Python Pro Bootcamp *(In Progress)*
+- GeeksforGeeks — 30-Day DSA Step-by-Step Learning Streak
+
+---
+
+<div align="center">
+
+*Currently: 2nd year · learning cloud + AI · open to internships and project collabs*
+
+</div>
