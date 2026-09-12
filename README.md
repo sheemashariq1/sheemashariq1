@@ -84,6 +84,8 @@ Building toward advanced Python through daily projects covering fundamentals, OO
 | [Exmentify](https://github.com/sheemashariq1/Exmentify) | AI exam prep platform — FastAPI + Gemini API + AWS |
 | [Python_Projects](https://github.com/sheemashariq1/Python_Projects) | Projects from the 100 Days of Code bootcamp |
 | [DSA_Practice](https://github.com/sheemashariq1/DSA_Practice) | Striver's A2Z + College DSA Sprint|
+| [LeetCode-Solutions](https://github.com/sheemashariq1/LeetCode-Solutions) | Practiced problems · LeetHub auto-sync |
+| [SoarJMI-Tasks](https://github.com/sheemashariq1/SoarJMI-Tasks) | Technical projects from SoarJMI Society tenure |
 ---
 
 ## 🎓 Education & Certifications
