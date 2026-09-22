@@ -44,8 +44,6 @@ Building toward advanced Python through daily projects covering fundamentals, OO
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/SHEEMA_SHARIQ?theme=dark)](https://leetcode.com/u/SHEEMA_SHARIQ)
 
-![Sheema's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sheemashariq1&show_icons=true&theme=github_dark&hide_border=true&count_private=true&cache_seconds=1800)
-
 ![Problems Solved](https://img.shields.io/badge/Problems%20Solved-200%2B-2F8D46?style=flat-square)
 [![100 Day Badge](https://img.shields.io/badge/100%20Day%20Badge-🔥-orange?style=flat-square)](https://leetcode.com/u/SHEEMA_SHARIQ)
 [![50 Day Badge](https://img.shields.io/badge/50%20Day%20Badge-⚡-yellow?style=flat-square)](https://leetcode.com/u/SHEEMA_SHARIQ)
