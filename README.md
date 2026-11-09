@@ -49,6 +49,7 @@ Docker container  ->  AWS Elastic Beanstalk  ->  CloudFront (HTTPS)
 An ML layer that predicts which topics a student is weak in, trained with scikit-learn on simulated attempt data (ROC-AUC 0.70, about 67% accuracy). Predictions are served through FastAPI and deployed on Render, with a weak-topic heatmap dashboard and LangChain + Gemini explanations for each prediction.
 
 <img src="https://skillicons.dev/icons?i=py,fastapi" alt="exmentify-ml stack" />
+
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini%20API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
@@ -60,6 +61,7 @@ An ML layer that predicts which topics a student is weak in, trained with scikit
 My Class 12 console project, rebuilt as a full-stack system with a FastAPI REST API (23 endpoints), a Streamlit dashboard and a normalised MySQL schema. It has JWT login with bcrypt hashing, role-based access (admin, HR, IT), login lockout and an audit log of every change. Covered by 178 automated tests running on GitHub Actions, containerised with Docker Compose and deployed on AWS EC2 with HTTPS.
 
 <img src="https://skillicons.dev/icons?i=py,fastapi,mysql,docker,aws,githubactions" alt="MNC stack" />
+
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
@@ -107,6 +109,7 @@ Daily hands-on projects from the Udemy bootcamp, covering fundamentals, OOP, aut
 **Frameworks and libraries**
 
 <img src="https://skillicons.dev/icons?i=fastapi,react,tailwind" alt="Frameworks" />
+
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
@@ -114,6 +117,7 @@ Daily hands-on projects from the Udemy bootcamp, covering fundamentals, OOP, aut
 **Tools and platforms**
 
 <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,docker,aws,vercel" alt="Tools" />
+
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 
 **Concepts**
